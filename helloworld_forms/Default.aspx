@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head runat="server">
-    <title>Welcome to Build Your Own ASP.NET 4 Web Site!</title>
+    <title>Current Time</title>
   </head>
   <body>
     <form id="form1" runat="server">
